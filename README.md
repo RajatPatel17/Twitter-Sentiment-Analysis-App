@@ -1,4 +1,4 @@
-App Link: https://nlp-twitter-sentiment-analysis.streamlit.app/
+App Link: https://twitter-sentiment-analysis-wordcloud.streamlit.app/
 
 # NLP-Pipeline-Twitter-Sentiment-Analysis
 
